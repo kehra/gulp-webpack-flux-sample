@@ -1,0 +1,24 @@
+{
+  "name": "gulp_sample",
+  "version": "0.0.1",
+  "authors": [
+    "kehra"
+  ],
+  "description": "sample for gulp learning",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "~1.0.2",
+    "riot": "~2.2.3",
+    "keyMirror": "git@github.com:STRML/keyMirror.git"
+  }
+}
